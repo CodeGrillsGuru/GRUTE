@@ -43,14 +43,14 @@ fi
 
 banner() {
 
-printf "\e[1;92m   ██████╗ ██████╗ ██╗   ██╗████████╗███████   \e[0m\n"
-printf "\e[1;92m  ██╔════╝ ██╔══██╗██║   ██║╚══██╔══╝██╔════╝  \e[0m\n"
-printf "\e[1;92m  ██║  ███╗██████╔╝██║   ██║   ██║   █████╗    \e[0m\n"
+printf "\e[1;95m   ██████╗ ██████╗ ██╗   ██╗████████╗███████   \e[0m\n"
+printf "\e[1;95m  ██╔════╝ ██╔══██╗██║   ██║╚══██╔══╝██╔════╝  \e[0m\n"
+printf "\e[1;95m  ██║  ███╗██████╔╝██║   ██║   ██║   █████╗    \e[0m\n"
 printf "\e[1;92m  ██║   ██║██╔══██╗██║   ██║   ██║   ██╔══╝    \e[0m\n"
-printf "\e[1;77m  ╚██████╔╝██║  ██║╚██████╔╝   ██║   ███████╗  \e[0m\n"
-printf "\e[1;77m   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝  \e[0m\n"
+printf "\e[1;92m  ╚██████╔╝██║  ██║╚██████╔╝   ██║   ███████╗  \e[0m\n"
+printf "\e[1;92m   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝  \e[0m\n"
 printf "\n"
-printf "\e[1;77m\e[45m  Instagram Brute Forcer v1.5.4 Author: thelinuxchoice (Github/IG)   \e[0m\n"
+printf "\e[1;77m\e[45m  Instagram Brute Forcer v1.5.4 Author: YASH GROVER  \e[0m\n"
 printf "\n"
 }
 
