@@ -2,7 +2,10 @@
 # AUTHOR - YASH GROVER
 The all new best instagram bruteforce tool
 With a 100000 (100k password list default)
+
+
            COMMANDS👇
+
 $ git clone https://github.com/gurugrover/GRUTE
 
 $ cd GRUTE
